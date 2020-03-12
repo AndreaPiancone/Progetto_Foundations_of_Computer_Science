@@ -7,6 +7,6 @@ Il progetto consiste nel risolvere 12 esercizi sul [Kiva datasset](https://www.k
 Grazie a questo progetto ho potuto prendere confidenza con il linguaggio python al fine di compiere operazioni di pulizia dati e svolgere interrogazioni su un datatset.
 
 ### link utili:
-* [jupyter notebook del progetto](https://www.kaggle.com/gaborfodor/additional-kiva-snapshot "Kiva dataset")
-* [dataset]()
+* [jupyter notebook del progetto]()
+* [dataset](https://www.kaggle.com/gaborfodor/additional-kiva-snapshot "Kiva dataset")
 * [richieste del progetto]()
