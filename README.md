@@ -9,4 +9,4 @@ Grazie a questo progetto ho potuto prendere confidenza con il linguaggio python 
 ### link utili:
 * [jupyter notebook del progetto](https://github.com/AndreaPiancone/Progetto_Foundations_of_Computer_Science/blob/master/Progetto_Foundations_of_Computer_Science.ipynb)
 * [dataset](https://www.kaggle.com/gaborfodor/additional-kiva-snapshot "Kiva dataset")
-* [richieste del progetto]()
+* [richieste del progetto](https://gdv.github.io/foundationsCS/2019-project)
